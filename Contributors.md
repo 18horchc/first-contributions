@@ -102,6 +102,7 @@ PRAJOT
 - [Allen James Alvaro](https://github.com/AllenJalvaro)
 - [Dilusha Hesaranga](https://github.com/DilushaHesaranga)
 - [Christopherson Carpio](https://github.com/tope0731)
+- [Cordelia Horch] (https://github.com/18horchc)
 - [Vineeth Lakshminarayanan](https://github.com/vilakshminar)
 - [Charith Maddoju](https://github.com/charithmaddoju)
 - [Arber Lisaj](https://github.com/arberlisaj)
